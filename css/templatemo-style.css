@@ -195,7 +195,7 @@ header .social-icon li a {
 
 /* start home */
 #home {
-  background: url("../images/jok2.jpg") no-repeat;
+  background: black;
   background-size: cover;
   padding-top: 160px;
   padding-bottom: 100px;
